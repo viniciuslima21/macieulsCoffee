@@ -2,7 +2,7 @@
 Site de uma cafeteria fictícia criado para um trabalho de faculdade.
 
 Deploy do projeto:
-https://viniciuslima21.github.io/macieulsCoffee/
+https://macieuls-coffee.vercel.app/
 
 Para visualizar em seu computador use: 
 
