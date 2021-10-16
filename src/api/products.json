@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Expresso Capuccino",
+        "price": "10,00",
+        "isNew": true
+    },
+    {
+        "id": 2,
+        "name": "Mokaccino",
+        "price": "8,00",
+        "isNew": true
+    },
+    {
+        "id": 3,
+        "name": "Pingado",
+        "price": "5,00",
+        "isNew": false
+    },
+    {
+        "id": 4,
+        "name": "Capuccino",
+        "price": "9,00",
+        "isNew": false
+    },
+    {
+        "id": 5,
+        "name": "Machiatto",
+        "price": "10,99",
+        "isNew": false
+    },
+    {
+        "id": 6,
+        "name": "Café Gelado",
+        "price": "8,99",
+        "isNew": false
+    },
+    {
+        "id": 7,
+        "name": "Café com leite",
+        "price": "3,99",
+        "isNew": false
+    },
+    {
+        "id": 8,
+        "name": "Café forte",
+        "price": "2,99",
+        "isNew": false
+    }
+]
