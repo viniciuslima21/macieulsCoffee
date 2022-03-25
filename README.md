@@ -7,7 +7,7 @@ https://macieuls-coffee.vercel.app/
 Para visualizar em seu computador use: 
 
 ```
-git clone https://github.com/viniciuslima21/macieulsCoffee.git
+git clone https://github.com/viniciuslimaan/macieulsCoffee.git
 ```
 
 ## Tecnologias utilizadas
